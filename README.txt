@@ -34,7 +34,7 @@ INSTALLATION
 ------------
 
  * Install as you would normally install a contributed Drupal module. See:
-   https://drupal.org/documentation/install/modules-themes/modules-7
+   https://www.drupal.org/docs/8/extending-drupal-8/installing-modules
    for further information.
 
 
@@ -55,6 +55,15 @@ MAINTAINERS
 -----------
 
 Current maintainers:
+ * Jyoti Singh (jyoti.singh)
  * bengtan (bengtan) - https://www.drupal.org/u/bengtan
  * Michael Moritz (miiimooo) - https://www.drupal.org/u/miiimooo
  * Dmitry Kiselev (kala4ek) - https://www.drupal.org/u/kala4ek
+
+ @todo
+ -----
+ - Implement SpamProjection class
+ - Composer based integration
+ - User profile/registration integration
+
+
