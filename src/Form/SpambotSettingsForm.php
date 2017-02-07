@@ -5,6 +5,9 @@ namespace Drupal\spambot\Form;
 use Drupal\Core\Form\ConfigFormBase;
 use Drupal\Core\Form\FormStateInterface;
 
+/**
+ *
+ */
 class SpambotSettingsForm extends ConfigFormBase {
 
   /**
