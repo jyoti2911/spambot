@@ -1,9 +1,0 @@
-spambot_whitelist_email: ''
-spambot_whitelist_username: ''
-spambot_whitelist_ip: ''
-spambot_user_register_protect: true
-spambot_check_blocked_accounts: false
-spambot_last_checked_uid: 0
-spambot_log_blocked_registration: true
-spambot_sfs_api_key: false
-spambot_blocked_message: false
