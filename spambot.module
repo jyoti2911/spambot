@@ -362,7 +362,7 @@ function spambot_user_register_form_validate(&$form, &$form_state) {
           \Drupal::moduleHandler()->invokeAll('spambot_registration_blocked', [$hook_args]);
         }
 
-        if ($delay = $configs->get('spambot_blacklisted_delay')) {
+        if ($delay = $config->get('spambot_blacklisted_delay')) {
           sleep($delay);
         }
       }
