@@ -40,17 +40,6 @@ function spambot_schema() {
 }
 
 /**
- * Implements hook_uninstall().
- */
-function spambot_uninstall() {
-  // @FIXME
-// db_delete('variable')
-//     ->condition('name', 'spambot_%', 'LIKE')
-//     ->execute();
-
-}
-
-/**
  * Update variables, create new table 'node_spambot'.
  */
 function spambot_update_7101() {

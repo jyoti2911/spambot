@@ -6,7 +6,7 @@ use Drupal\Core\Form\ConfigFormBase;
 use Drupal\Core\Form\FormStateInterface;
 
 /**
- *
+ * Settings form to save the configuration for Spambot.
  */
 class SpambotSettingsForm extends ConfigFormBase {
 
